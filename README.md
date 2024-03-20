@@ -2,7 +2,8 @@
 
 #Retificador
 
-é um componente eletrônico utilizado para converter corrente alternada (CA) em corrente contínua (CC). Isso é necessário porque muitos dispositivos eletrônicos funcionam com corrente contínua, mas a eletricidade fornecida pela maioria das fontes de energia (como tomadas domésticas) é em corrente alternada.
+é um componente eletrônico utilizado para converter corrente alternada (CA) em corrente contínua (CC). Isso é necessário porque muitos dispositivos eletrônicos funcionam com corrente contínua, mas a eletricidade fornecida pela maioria das fontes de energia (como tomadas domésticas) é em corrente alternada. 
+Além disso, para garantir que a corrente contínua gerada seja estável e adequada para o funcionamento dos dispositivos eletrônicos, são frequentemente empregados um regulador de tensão e um transformador. O regulador de tensão é responsável por manter a voltagem da corrente contínua dentro dos limites aceitáveis, evitando flutuações que poderiam danificar os dispositivos conectados. Enquanto isso, o transformador é utilizado para ajustar a voltagem da corrente alternada antes de ela ser convertida em corrente contínua, garantindo que a tensão seja adequada para o processo de retificação. Juntos, esses componentes asseguram um fornecimento estável e seguro de energia para os dispositivos eletrônicos.
 
 ###
 #**Simulalção** 
