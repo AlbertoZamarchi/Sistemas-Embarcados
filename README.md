@@ -11,7 +11,7 @@
 
 #**Prototipagem**
 
-![Captura de Tela (57) 1](https://github.com/AlbertoZamarchi/Sistemas-Embarcados/assets/107437069/7f5fe2e9-f953-40cc-90a7-36608de95a62)
+![Captura de Tela (58) 1](https://github.com/AlbertoZamarchi/Sistemas-Embarcados/assets/107437069/939e6980-7531-41da-b237-9877c800bfa3)
 
 #**PCD**
 
